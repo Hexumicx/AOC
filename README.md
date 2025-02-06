@@ -1,2 +1,2 @@
 # AOC
-Solution compilation (not complete)
+Solution compilation
